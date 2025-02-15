@@ -1,0 +1,85 @@
+* {
+  font-family:'Times New Roman', Times, serif;
+}
+
+/* Navbar */
+
+.navbar{
+  text-decoration: "none";
+}
+
+.nav-NavLink{
+  text-decoration: none;
+  padding: 2px;
+  color: inherit;
+}
+
+/*Section Container*/
+.sectionContainer {
+  background-color: rgb(56, 56, 56);
+  color: rgb(250, 250, 250, 0.75);
+}
+
+/*Home*/
+
+.img-no-border{
+  width: 315px;
+  height: 175px;
+  border: 1px solid white;
+  padding: 1px;
+}
+
+/*AboutUS*/
+.aboutUsContainer{
+  
+}
+
+/*ContactUS*/
+.contactUsContainer{
+  
+}
+/*Home*/
+
+/*Login and Signup*/
+.loginContainer{
+  background-color: rgb(242, 242, 242) ;
+  color: rgb(27, 27, 27);
+  border: 1px solid rgb(183, 183, 183);
+  margin: 5%;
+  min-width: 500px;
+  min-height: fit-content;
+}
+
+
+
+.input{
+  width: 90%
+}
+
+.icon {
+  color: rgb(253, 253, 253);
+  width: 11%;
+  background-color: rgb(135, 134, 134);
+}
+
+.eIcon:hover{
+  background-color: rgb(104, 103, 103);
+  scale: 1.1;
+}
+
+.logInBtn {
+  width: 100%;
+  
+}
+
+
+/*Footer*/
+.footerOuterContainer{
+  font-weight: 200;
+  color: rgb(202, 202, 202 , 0.8);
+}
+
+.copyRightText{
+  font-weight: 100;
+  color: rgb(202, 202, 202, 0.5);
+}
